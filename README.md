@@ -1,2 +1,1 @@
-My first readme
-juu weuh!
+my first read me
